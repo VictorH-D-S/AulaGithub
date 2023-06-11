@@ -10,6 +10,10 @@ namespace AulaGithub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Teste para o GitHub.");
+            
+            
+            Console.ReadKey();
         }
     }
 }
